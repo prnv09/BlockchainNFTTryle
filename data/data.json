@@ -1,0 +1,12 @@
+{
+    "name": "web3 bootcamp token",
+    "description": "This s just demo,you will not get anything bye ", 
+    "image": "https://ipfs.infura.io/ipfs/QmWc6YHE815F8kExchG9kd2uSsv7ZF1iQNn23bt5iKC6K3/image",
+    "meta": "https://ipfs.infura.io/ipfs/QmWc6YHE815F8kExchG9kd2uSsv7ZF1iQNn23bt5iKC6K3/other",
+    "attributes": [
+        {
+            "type":"wallpaper",
+            "value":"valuable"
+        }
+    ]
+}
